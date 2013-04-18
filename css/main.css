@@ -1,0 +1,120 @@
+body html{
+	margin-top: 10px;
+
+
+}
+.content_center{
+
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+	
+
+
+}
+.content_center_r{
+
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 50px;
+
+
+}
+.content_bookmark{
+
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+
+}
+.logo{
+
+	margin-top: 10px; 
+	text-align: left;
+	
+
+}
+.login_f{
+	
+	margin-top: 10px;
+	text-align: left;
+	
+
+
+}
+.c{
+	text-align: center;
+	color: #A4A4A4;
+
+}
+.regis_f{
+	
+	text-align: left;
+
+
+}
+.error{
+	width: 300px;
+	height: 100px;
+	margin-top: 50px;
+
+
+
+}
+.h{
+	background-color: #F0F9FF;
+	color: #34A6EE;
+	
+	
+
+
+}
+.g_by{
+	color: #34A6EE;
+
+}
+.gr{
+
+	text-align: left;
+
+}
+.tip {
+    color: #fff;
+    background:#1d1d1d;
+    display:none; /*--Hides by default--*/
+    padding:10px;
+    position:absolute;    z-index:1000;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.removeService { color: Green }
+
+tr td .removeService { display: none; } 
+tr td:hover .removeService { display: inline; } 
+
+.error{
+	display: inline;
+
+}
+.more{
+	text-align: left;
+
+
+
+}
+a.t_o_p:hover{
+
+	text-decoration: none;
+}
+a.t_o_p:visited{
+
+	text-decoration: none;
+}
+
